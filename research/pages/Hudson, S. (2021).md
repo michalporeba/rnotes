@@ -1,0 +1,19 @@
+- **Status**: [[Skimmed]]
+- **Title**: Improving Volunteer Engagement in Nonprofit Healthcare Organizations
+- **By**: [[Sonia K. Hudson]]
+- **In**: [[Open Journal of Business and Management]]
+- **Year**: [[2021]]
+- **DOI**: https://doi.org/10.4236/ojbm.2021.93074
+- **Keywords**: Competence Behaviour, Psychological Needs, [[Volunteer Engagement]]
+-
+- **Abstract**:
+  Grounded in the conceptual lens of Deci and Ryan’s [[Self-determination Theory]], the strategies nonprofit healthcare leaders use to reduce volunteer turnover were explored in this [[single-case study]]. The participations included 5 nonprofit healthcare leaders from a single organization in the Southwestern United States. Data were collected using [[semistructured interviews]], internal and external organizational documents, and publicly available data. Analysis of internal and external organizational documents and publicly available data were manually coded and thematically organized. The use of a methodological triangulation process and member checking increased the reliability of data interpretation. Using the thematic approach, 3 themes emerged: volunteer recognition improved volunteer turnover, open communication improved volunteer turnover, and relationship building improved volunteer turnover. The findings from this study may contribute to positively social change by providing nonprofit leaders with strategies to reduce volunteer turnover, enhance operational processes, and improve organizational performance. The results of this study indicated that nonprofit healthcare leaders who develop volunteer engagement strategies could increase organizational success and develop successful work habits among volunteers to improve economic growth in the communities they serve.
+-
+- **Cites**:
+	- [[McBey, K., Karakowsky, L., & Ng, P. (2017)]] -> "research to improve nonprofit organizations’ volunteer engagement is minimal"
+	- [[Guntert, S., & Wehner, T. (2015)]] -> "leaders understand what motivates volunteers and focused on the individual’s experience of autonomy, competence, and relatedness to foster motivation and engagement, increased organizational productivity, and retained volunteers."
+	- [[Bortree and Waters (2014)]] -> "suggested increasing volunteer engagement requires nonprofit volunteer leaders that design job tasks around meeting volunteers’ needs, resulting in volunteer engagement and increased sustainability." [[Question]] does it apply to expectations of digital first experience? Do organisations need to design volunteering roles that align with volunteers' expectations?
+	-
+- **Notes**:
+	-
+	-

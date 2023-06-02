@@ -1,0 +1,6 @@
+- **Notes**:
+	- [[NHS Reserves]] “Local hospitals will be able to mobilise a broad range of fully trained staff, from retired doctors to IT experts, giving the NHS additional capacity when it needs it most.” - Sajid Javid (https://twitter.com/sajidjavid/status/1465002206520827909?lang=en)
+	- [[NHS Reserves]] https://www.nursingtimes.net/news/workforce/new-nhs-reserves-scheme-calls-on-retired-nurses-to-return-to-work-30-11-2021/
+	- [[NHS Reserves]] in Wales - BBC Article https://www.bbc.co.uk/news/uk-wales-64475376
+	-
+-
