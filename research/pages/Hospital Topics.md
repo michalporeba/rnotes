@@ -1,0 +1,4 @@
+- From https://www.tandfonline.com/journals/vhos20
+	- ***Hospital Topics* **is the longest continuously published healthcare journal in the United States. Since 1922, **Hospital Topics** has provided healthcare managers and professionals with research they can apply to improve the quality of access, management, and delivery of healthcare.
+	  
+	  Dedicated to those who bring healthcare to the public, **Hospital Topics** spans the whole spectrum of healthcare issues including, but not limited to information systems, fatigue management, medication errors, nursing compensation, midwifery, job satisfaction among managers, team building, and bringing primary care to rural areas. Through articles on theory, applied research, and practice, **Hospital Topics** addresses the central concerns of today's healthcare professional and leader.

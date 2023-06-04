@@ -1,0 +1,2 @@
+- [[Botan et al., (2023)]] found that community first responders arrived at the scene before an ambulance in only 1.5% of cases in urban areas and 3.9% of cases in rural areas. However, for the most urgent calls in rural areas, community first responders arrived at the scene 9.1% of the time before or after an ambulance. [[Question]] Does this include cases where CFRs are dispatched without immediate ambulance backup?
+- What is the impact of Help Point and other SJAC event cover on Health Care system?

@@ -14,6 +14,6 @@
 	- [[Guntert, S., & Wehner, T. (2015)]] -> "leaders understand what motivates volunteers and focused on the individual’s experience of autonomy, competence, and relatedness to foster motivation and engagement, increased organizational productivity, and retained volunteers."
 	- [[Bortree and Waters (2014)]] -> "suggested increasing volunteer engagement requires nonprofit volunteer leaders that design job tasks around meeting volunteers’ needs, resulting in volunteer engagement and increased sustainability." [[Question]] does it apply to expectations of digital first experience? Do organisations need to design volunteering roles that align with volunteers' expectations?
 	-
-- **Notes**:
-	-
+- **Quotes**:
+	- "volunteer recognition improved volunteer turnover, open communication improved volunteer turnover, and relationship building improved volunteer turnover" -> relevant to [[RP - Gamification]]
 	-

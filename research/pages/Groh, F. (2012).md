@@ -1,0 +1,12 @@
+- **Status**: [[New]]
+- **Title**: Gamification: State of the Art Definition and Utilization
+- **By**: [[Fabian Groh]]
+- **In**: Proceedings of the 4th Seminar on [[Research Trends in Media Informatics]]
+- **Year**: [[2012]]
+- **DOI**:
+- **Keywords**: [[Gamification]]
+- **Abstract**:
+  This paper analyzes a definition of gamification as "the use of game design elements in non-game contexts". In this context, gamification can be set in relation to and differentiated from exisiting research. Due to the fact that this definition allows various game design elements, these are related t the self-determination theory. Consequently, there is a discussion about what gamified applications are able to offer and what problems they indicate.
+-
+- **Notes**:
+	- The article has plenty of references worth exploring, including links to industry research and experimentation, for example at Google.

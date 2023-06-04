@@ -1,0 +1,13 @@
+-
+- **Status**: [[New]]
+- **Title**: Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification
+- **By**: [[Juho Hamari]], [[Jonna Koivisto]], [[Harri Sarsa]]
+- **In**: 47th [[Hawaii International Conference on System Sciences]]
+- **Year**: [[2014]]
+- **DOI**: 3034, doi: 10.1109/HICSS.2014.377
+- **Keywords**: [[Gamification]]
+- **Abstract**:
+  This paper reviews peer-reviewed empirical studies on gamification. We create a framework for examining the effects of gamification by drawing from the definitions of gamification and the discussion on motivational affordances. The literature review covers results, independent variables (examined motivational affordances), dependent variables (examined psychological/behavioral outcomes from gamification), the contexts of gamification, and types of studies performed on the gamified systems. The paper examines the state of current research on the topic and points out gaps in existing literature. The review indicates that gamification provides positive effects, however, the effects are greatly dependent on the context in which the gamification is being implemented, as well as on the users using it. The findings of the review provide insight for further studies as well as for the design of gamified systems.
+-
+- **Notes**:
+	- A thorough literature review pointing out many shortcomings of studies from before 2014. Most of the studies analysed have shown positive impact of gamification but many questions remain unanswered.

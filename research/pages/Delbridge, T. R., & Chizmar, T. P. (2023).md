@@ -1,0 +1,18 @@
+-
+- **Status**: [[New]]
+- **Title**: Community First Responders: When Is the Juice Worth the Squeeze?
+- **By**: [[Theodore R. Delbridge]], [[Timothy P. Chizmar]]
+- **In**: [[Annals of Emergency Medicine]]
+- **Year**: [[2023]]
+- **DOI**: https://doi.org/10.1016/j.annemergmed.2022.06.027
+- **Keywords**:
+- **Abstract**:
+-
+- **Cites**:
+	- Builds on -> [[Botan et al., (2023)]]
+	- World Health Organization Emergency Care System Framework
+	- [[Phung et al., (2017)]] -> "Prior works have discussed some motivating and dissatisfying factors related to being a community first responder"
+	- Articles from EMS in America -> Increasing demand on professionalism as well as financial pressures make volunteering more difficult to commit to.
+	-
+- **Quotes**:
+	- "The effort to maintain a system dependent on volunteers is not inconsequential. Unfortunately, the number of volunteer first responders has declined over the past 20 years."
