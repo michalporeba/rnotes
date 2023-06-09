@@ -26,3 +26,10 @@
 -
 - **Notes**:
 	- Currently the data is collected for clinical governance reasons and is difficult to access by individuals unless in occasional publication of aggregate for individual. Younger generations want to make individual impact on their communities (citation needed). Would it be possible to use gamified experience to offer prompt feedback?
+-
+- **Sources**:
+	- Importance of volunteering in healthcare
+		- [[Saks, M., & van Bochove, M. (2021)]]
+		- [[Hotchkiss, R. B., Unruh, L., & Fottler, M. D. (2014)]]
+		- [[Firth, A. (2013)]]
+		- [[Naylor, C., Mundle, C., Weaks, L., & Buck, D. (2013)]]
