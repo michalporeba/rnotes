@@ -1,2 +1,3 @@
 - **Notes**:
 	- If it is widely understood to self-agency is positive for the engagement and retention, how is the data collected by the organisations used to communicate back to volunteers?
+	- Health boards have their own volunteers - would it be worth including them in some aspect?

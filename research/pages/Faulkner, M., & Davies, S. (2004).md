@@ -1,0 +1,9 @@
+- **Status**: [[New]]
+- **Title**: Social support in the healthcare setting: the role of volunteers
+- **By**: [[Mark Faulkner]], [[Sue Davies]]
+- **In**: [[Health and Social Care in the Community]]
+- **Year**: [[2004]]
+- **DOI**: https://doi.org/10.1111/j.1365-2524.2005.00526.x
+- **Keywords**:
+- **Abstract**:
+  The participation of volunteers in the National Health Service (NHS) has been actively promoted during recent years, particularly within community and primary healthcare services ([National Health Service 1996, 1998](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2524.2005.00526.x#b1%20#b2)). As a consequence, volunteers currently make a significant contribution to health and social care within the UK. Concerning this contribution, the literature often portrays the volunteers’ role as one of providing social support. In the present paper, the authors attempt to explore this role in more detail, drawing on interview data from studies of two separate volunteer programmes. One of these considered the role of volunteers supporting older hospitalised patients ([Davies *et al.* 2001](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2524.2005.00526.x#b3)), and the other was based within general practice ([Faulkner 2003, 2004](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2524.2005.00526.x#b4%20#b5)). The social support provided by these programmes is considered from the perspective of four broad support mechanisms described by [Langford *et al*. (1997)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2524.2005.00526.x#b6), namely: emotional support; informational support; appraisal support; and instrumental support. Secondary analysis examines the potential contribution of volunteers to patient well-being.

@@ -1,0 +1,9 @@
+- **Status**: [[New]]
+- **Title**: Daily motivation of volunteers in healthcare organizations: relating team inclusion and intrinsic motivation using self-determination theory
+- **By**: [[Jemima Bidee]], [[Tim Vantilborgh]], [[Roland Pepermans]], [[Jurgen Willems]], [[Marc Jegers]], [[Joeri Hofmans]]
+- **In**: [[European Journal of Work and Organizational Psychology]]
+- **Year**: [[2017]]
+- **DOI**: https://doi.org/10.1080/1359432X.2016.1277206
+- **Keywords**: Team inclusion, Volunteering, Motivation, Self-determination Theory, Daily-diary Study
+- **Abstract**:
+  The work of volunteers is indispensable for the well functioning of healthcare organizations, and for maintaining the quality of care in times of austerity. As feelings of intrinsic motivation stimulate volunteer well-being and their long-term engagement, we study how team inclusion relates to volunteers’ intrinsic motivation during their activities. We hypothesize that volunteers’ perceptions of inclusion are positively related to intrinsic motivation, via the satisfaction of their basic needs for autonomy, competence, and relatedness. To test our hypothesis, we conducted a daily-diary study, obtaining a final sample of 43 volunteers and 204 completed diaries. Multilevel path analyses showed that team inclusion was positively related to volunteers’ intrinsic motivation during their activities. Subsequent mediation analyses revealed that competence and relatedness need satisfaction mediated this relationship. Thus, when volunteers feel part of the team with which they complete their activities, they experience intrinsic motivation because feeling included stimulates their feelings of being competent and being related to others.
