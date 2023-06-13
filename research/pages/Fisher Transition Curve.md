@@ -1,0 +1,3 @@
+- From - [Factsheet: The Process of Transition](https://www.dpac.tas.gov.au/__data/assets/pdf_file/0021/60483/Change_09_-_Factsheet_-_The_Process_of_Transition.pdf)
+	- John Fisher's model of personal change – The Personal Transition Curve – is an analysis of how individuals deal with change. This model is a reference for individuals dealing with personal change and for managers and organisations helping staff to deal with personal change.
+	- https://www.businessballs.com/freepdfmaterials/fisher-transition-curve-2012bb.pdf
