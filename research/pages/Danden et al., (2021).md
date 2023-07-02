@@ -1,0 +1,11 @@
+- **Status**: [[New]]
+- **Title**: Effects of gender and personality differences on students’ perception of
+  game design elements in educational gamification
+- **By**: [[Mouna Denden]], [[Ahmed Tlili]], [[Fathi Essalmi]], [[Mohamed Jemni]], [[Nian-Shing Chen]]
+- **In**: [[International Journal of Human-Computer Studies]]
+- **Year**: [[2021]]
+- **DOI**: https://doi.org/10.1016/j.ijhcs.2021.102674
+- **Keywords**: Personality, Gender, Gamification, Human–computer interaction, Distance education
+- **Abstract**:
+  While many studies have reported the effectiveness of gamification in motivating students and making learning more fun, some others have reported contradictory findings regarding the potential of implementing game elements in an online gamified course. It is recognized that designing a successful gamification is a challenging process. Previous studies have shown that students’ individual differences may impact their gamification experiences. This study complements the available body of research by examining the effect of gender and personality differences on students’ perception of gamification in education. An experiment was conducted in a public university with 189 undergraduate students who took three online gamified courses, based on the selfdetermination theory, during two academic years. The results showed that gender and personality can affect
+  students’ perception of specific game elements. For instance, females are more likely to find feedback useful than males. Additionally, students low in extraversion are more likely to find a progress bar useful than students high in extraversion. The results also showed that gender moderates the effect of personality on students’ perception of the implemented game elements. For instance, males low in extraversion are more likely to perceive badges’ usefulness in gamified courses than males high in extraversion, whereas females low in conscientiousness are more likely to enjoy feedback than females high in conscientiousness. The findings of this study can help designers and educators personalize their gamified courses’ design based on personality and gender.

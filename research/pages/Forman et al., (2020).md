@@ -1,0 +1,11 @@
+- **Status**: [[New]]
+- **Title**: Gender differences in the effect of gamification on weight loss during a daily, neurocognitive training program
+- **By**: [[Evan M. Forman]], [[Stephanie M. Manasse]], [[Diane H. Dallal]], [[Rebecca J. Crochiere]], [[Michael P. Berry]], [[Meghan L. Butryn]], [[Adrienne S. Juarascio]]
+- **In**: Translational Behavioral Medicine
+- **Year**: [[2020]]
+- **DOI**: 10.1093/tbm/ibaa091
+- **Keywords**: Gamification, Gender, Inhibitory control training, Weight loss.
+- **Abstract**:
+  A major contributor to the obesity epidemic is the overconsumption of high-calorie foods, which is partly governed by inhibitory control, that is, the ability to override pre-prepotent impulses and drives. Computerized inhibitory control trainings (ICTs) have demonstrated qualified success at affecting real world health behaviors, and at improving weight loss, particularly when repeated frequently over an extended duration. It has been proposed that gamification (i.e., incorporating game-like elements such as a storyline, sounds, graphics, and rewards) might enhance participant interest and thus training compliance. Previous findings from a mostly female sample did support this hypothesis; however, it might be expected that the effects of gamification differ by gender such that men, who appear more motivated by gaming elements, stand to benefit more from gamification. The present study evaluated whether gender moderated the effect of a gamified ICT on weight loss. Seventy-six overweight individuals receive a no-sugar-added dietary prescription and were randomized to 42 daily and 2 weekly ICTs focused on sweet foods that were either gamified or nongamified. Results supported the
+  hypothesis that gamification elements had a positive effect on weight loss for men and not women (p = .03). However, mechanistic hypotheses for the moderating effect (in terms of enjoyment, compliance, and improvements in inhibitory control) were generally not supported (p’s > .20). These results suggest that gamification of ICTs may boost weight loss outcomes for men and not women, but further research is needed to determine the specific mechanisms driving this effect and to arrive at gamification elements that enhance effects for both men and women.
+-
